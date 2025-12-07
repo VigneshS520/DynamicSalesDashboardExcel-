@@ -1,45 +1,45 @@
-📊 Sales Dashboard – Excel Project
+# 📊 Dynamic Sales Dashboard – Excel Project
 
 This project showcases a fully interactive Sales Analytics Dashboard built using Microsoft Excel.
 The dashboard provides real-time insights into sales, profit, units sold, regions, products, and salespersons through dynamic KPIs and visualizations.
 
-⭐ Project Overview
+## ⭐ Project Overview
 
 A clean and interactive Excel dashboard designed to help businesses:
 
-Track overall sales performance
-
-Analyze product and regional revenue
-
-Identify top-performing salespersons
-
-Compare profit distribution
-
-Understand trends over time
+- Track overall sales performance
+- Analyze product and regional revenue
+- Identify top-performing salespersons
+- Compare profit distribution
+- Understand trends over time
 
 All visual components update automatically using slicers, making this dashboard highly intuitive and business-friendly.
 
-📁 Files in This Repository
-File	Description
-sales Dashboard.xlsx	Main Excel file containing raw data, pivot tables, and final dashboard
-images/dashboard.png	Dashboard screenshot (add your image here)
-docs/Report.pdf	(Optional) Detailed report explaining the project
-🧩 Dashboard Components
-1️⃣ Key Performance Indicators (KPIs)
+## 📁 Files in This Repository
+
+| File                   | Description                                                   |
+|------------------------|---------------------------------------------------------------|
+| `sales Dashboard.xlsx` | Main Excel file containing data, pivot tables, and dashboard |
+| `images/dashboard.png` | Dashboard screenshot (add your image here)                   |
+| `docs/Report.pdf`      | *(Optional)* Detailed project report                          |
+
+## 🧩 Dashboard Components
+
+### 1️⃣ Key Performance Indicators (KPIs)
 
 The dashboard highlights essential business metrics:
 
-Total Sales
+- Total Sales
 
-Total Profit
+- Total Profit
 
-Units Sold
+- Units Sold
 
-Top Region
+- Top Region
 
-Best-Selling Product
+- Best-Selling Product
 
-Top Salesperson
+- Top Salesperson
 
 These KPIs automatically update based on slicer filters.
 
@@ -63,16 +63,17 @@ All charts are dynamic and respond to slicer selections instantly.
 
 The raw dataset contains the following fields:
 
-Column	Description
-Date	Date of transaction
-Sales Person	Person responsible for the sale
-Region	Region where the sale occurred
-Product	Item sold
-Units Sold	Quantity sold
-Unit Price	Selling price per unit
-Cost of Goods	Cost per unit
-Total Sales	Units Sold × Unit Price
-Profit	Total Sales − Cost of Goods
+| Column         | Description                                 |
+|----------------|---------------------------------------------|
+| Date           | Date of the transaction                     |
+| Sales Person   | Person responsible for the sale             |
+| Region         | Region where the sale occurred              |
+| Product        | Product sold                                |
+| Units Sold     | Quantity sold                               |
+| Unit Price     | Selling price per unit                      |
+| Cost of Goods  | Cost per unit                               |
+| Total Sales    | Units Sold × Unit Price                     |
+| Profit         | Total Sales − Cost of Goods                 |
 
 This dataset is used to create pivot tables and visual summaries in the dashboard.
 
