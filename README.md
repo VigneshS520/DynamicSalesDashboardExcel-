@@ -95,5 +95,5 @@ This dataset is used to create pivot tables and visual summaries in the dashboar
 1. Download and open sales Dashboard.xlsx
 2. Go to the Dashboard sheet
 3. Use slicers to filter Region, Product, Salesperson, or Year
-4.Watch KPI cards and charts update instantly
-5.Analyze reports and derive insights
+4. Watch KPI cards and charts update instantly
+5. Analyze reports and derive insights
