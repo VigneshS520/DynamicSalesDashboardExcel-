@@ -20,8 +20,8 @@ All visual components update automatically using slicers, making this dashboard 
 | File                   | Description                                                   |
 |------------------------|---------------------------------------------------------------|
 | `sales Dashboard.xlsx` | Main Excel file containing data, pivot tables, and dashboard |
-| `images/dashboard.png` | Dashboard screenshot (add your image here)                   |
-| `docs/Report.pdf`      | *(Optional)* Detailed project report                          |
+| `images/dashboard.png` | Dashboard screenshot                    |
+| `docs/Report.pdf`      | Detailed project report                          |
 
 ## 🧩 Dashboard Components
 
@@ -30,36 +30,27 @@ All visual components update automatically using slicers, making this dashboard 
 The dashboard highlights essential business metrics:
 
 - Total Sales
-
 - Total Profit
-
 - Units Sold
-
 - Top Region
-
 - Best-Selling Product
-
 - Top Salesperson
 
 These KPIs automatically update based on slicer filters.
 
-2️⃣ Interactive Visualizations
+### 2️⃣ Interactive Visualizations
 
 The dashboard includes:
 
-Bar Chart → Product-wise sales comparison
-
-Column Chart → Region-wise sales performance
-
-Line/Trend Chart → Time-based sales trend
-
-Pie/Donut Chart → Profit contribution
-
-Slicers → Filters for Region, Product, Salesperson, Year
+- Bar Chart → Product-wise sales comparison
+- Column Chart → Region-wise sales performance
+- Line/Trend Chart → Time-based sales trend
+- Pie/Donut Chart → Profit contribution
+- Slicers → Filters for Region, Product, Salesperson, Year
 
 All charts are dynamic and respond to slicer selections instantly.
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 The raw dataset contains the following fields:
 
@@ -77,48 +68,32 @@ The raw dataset contains the following fields:
 
 This dataset is used to create pivot tables and visual summaries in the dashboard.
 
-🛠 Tools & Techniques Used
+## 🛠 Tools & Techniques Used
 
-Microsoft Excel
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers (Interactive Filters)
+- Data Cleaning & Preparation
+- Conditional Formatting
+- Dashboard Layout & Design
 
-Pivot Tables
+## 🎨 Dashboard Features
 
-Pivot Charts
+- Clean and structured layout
+- Automatically updating KPIs
+- Easy-to-use slicer-driven interactivity
+- Color-coded charts for better readability
+- Suitable for business analysis and reporting
 
-Slicers (Interactive Filters)
-
-Data Cleaning & Preparation
-
-Conditional Formatting
-
-Dashboard Layout & Design
-
-🎨 Dashboard Features
-
-Clean and structured layout
-
-Automatically updating KPIs
-
-Easy-to-use slicer-driven interactivity
-
-Color-coded charts for better readability
-
-Suitable for business analysis and reporting
-
-🖼 Dashboard Screenshot
-
-(After uploading a screenshot in images/ folder, link it like this:)
+## 🖼 Dashboard Screenshot
 
 ![Sales Dashboard](images/dashboard.png)
 
-📌 How to Use This Dashboard
+## 📌 How to Use This Dashboard
 
-Download and open sales Dashboard.xlsx
-
-Go to the Dashboard sheet
-
-Use slicers to filter Region, Product, Salesperson, or Year
-
-Watch KPI cards and charts update instantly
-
-Analyze reports and derive insights
+1.Download and open sales Dashboard.xlsx
+2.Go to the Dashboard sheet
+3.Use slicers to filter Region, Product, Salesperson, or Year
+4.Watch KPI cards and charts update instantly
+5.Analyze reports and derive insights
