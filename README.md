@@ -108,7 +108,7 @@ Suitable for business analysis and reporting
 
 (After uploading a screenshot in images/ folder, link it like this:)
 
-[Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](images/dashboard.png)
 
 📌 How to Use This Dashboard
 
