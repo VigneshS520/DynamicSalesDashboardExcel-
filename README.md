@@ -43,10 +43,10 @@ These KPIs automatically update based on slicer filters.
 The dashboard includes:
 
 - Bar Chart → Product-wise sales comparison
-- Column Chart → Region-wise sales performance
-- Line/Trend Chart → Time-based sales trend
-- Pie/Donut Chart → Profit contribution
-- Slicers → Filters for Region, Product, Salesperson, Year
+- Column Chart → Total-sales by salesperson
+- Line/Trend Chart → product-wise units sold
+- Pie/Donut Chart → Region-wise sales performance
+- Slicers → Filters for Region, Product, Salesperson
 
 All charts are dynamic and respond to slicer selections instantly.
 
@@ -64,7 +64,7 @@ The raw dataset contains the following fields:
 | Unit Price     | Selling price per unit                      |
 | Cost of Goods  | Cost per unit                               |
 | Total Sales    | Units Sold × Unit Price                     |
-| Profit         | Total Sales − Cost of Goods                 |
+| Profit         | Total Sales − Cost of Goods * Units sold                |
 
 This dataset is used to create pivot tables and visual summaries in the dashboard.
 
