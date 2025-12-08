@@ -64,7 +64,7 @@ The raw dataset contains the following fields:
 | Unit Price     | Selling price per unit                      |
 | Cost of Goods  | Cost per unit                               |
 | Total Sales    | Units Sold × Unit Price                     |
-| Profit         | Total Sales − Cost of Goods * Units sold                |
+| Profit         | Total Sales − ( Cost of Goods * Units sold )                |
 
 This dataset is used to create pivot tables and visual summaries in the dashboard.
 
